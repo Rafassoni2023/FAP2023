@@ -1,0 +1,6 @@
+var Nome;
+
+
+Nome = window.prompt('Digite seu nome:');
+window.alert('Alô, mundo!');
+window.alert(Nome);
